@@ -47,8 +47,6 @@
 
 https://github.com/AHMED-SAFA/Railway-Safety-and-Automation/assets/111047763/b72e6d63-dde8-4442-8773-411ba5d54b77
 
-https://github.com/AHMED-SAFA/Railway-Safety-and-Automation/assets/111047763/9e49d20a-28f0-4e2e-983c-5158d5346a93
-
 <ul>
     <li><strong>Obstacle Detection of Train</strong>: Detects obstacles on the tracks and stops the train to prevent accidents.</li>
 </ul>
