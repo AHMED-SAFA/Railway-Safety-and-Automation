@@ -1,8 +1,8 @@
 <h1>✨Railway Safety and Automation</h1>
 
-<p>🟣This is Railway Safety and Automation! This project focuses on automating railway operations, including automatic railway crossing bar management and obstacle detection on rail transport and automatic obstacle detection of the train</p>
+<p>This is Railway Safety and Automation! This project focuses on automating railway operations, including automatic railway crossing bar management and obstacle detection on rail transport and automatic obstacle detection of the train</p>
 
-<h2>➡️Contents</h2>
+<h2>Contents</h2>
 <ul>
     <li><a>Overview</a></li>
     <li><a>Features</a></li>
@@ -12,10 +12,10 @@
     <li><a>Contributor(s)</a></li>
 </ul>
 
-<h2>➡️Overview</h2>
-<p>🟣The Railway Automation System aims to enhance safety and efficiency in railway operations. The system automates the operation of railway crossing bars, ensuring they are lowered or raised at appropriate times. Additionally, it includes an obstacle detection mechanism to prevent collisions and ensure the smooth operation of Trains.</p>
+<h2>Overview</h2>
+<p>The Railway Automation System aims to enhance safety and efficiency in railway operations. The system automates the operation of railway crossing bars, ensuring they are lowered or raised at appropriate times. Additionally, it includes an obstacle detection mechanism to prevent collisions and ensure the smooth operation of Trains.</p>
 
-<h2>➡️Features</h2>
+<h2>Features</h2>
 <ul>
     <li><strong>Automatic Railway Crossing Bar</strong></li>
     <li><strong>Protection when cars are under the Crossing Bars</strong></li>
@@ -25,8 +25,8 @@
     <li><strong>Real-time Monitoring</strong></li>
 </ul>
 
-<h2>➡️Components</h2>
-<p>🟣These are the components of the projects</p>
+<h2>Components</h2>
+<p>These are the components of the projects</p>
 <ol>
     <li>Arduino UNO</li>
     <li>Arduino UNO IDE</li>
@@ -39,7 +39,7 @@
     <li>Connecting wires</li>
 </ol>
 
-<h2>➡️Operations</h2>
+<h2>Operations</h2>
 
 <ul>
     <li><strong>Automatic Railway Crossing Bar</strong>: Automatically lowers and raises the crossing bar based on the presence of an approaching train.</li>    
@@ -68,7 +68,7 @@ https://github.com/AHMED-SAFA/Railway-Safety-and-Automation/assets/111047763/8f4
 
 
 
-<h2>➡️Contributors</h2>
+<h2>Contributors</h2>
   <ul>
     <li><a href="https://github.com/AHMED-SAFA">Ahmed Nur E Safa</a></li>
     <li><a href="https://github.com/Minhaz-Mahmud">Minhaz Mahmud Mehedi</a></li>
